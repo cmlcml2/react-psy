@@ -1,7 +1,9 @@
+import Card from "../components/Card.tsx";
+
 const Tarifs = () => {
     return (
         <>
-            <p>Tarifs workss</p>
+        <Card></Card>
         </>
     );
 };
