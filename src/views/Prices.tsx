@@ -1,6 +1,6 @@
 import Card from "../components/Card.tsx";
 
-const Tarifs = () => {
+const Prices = () => {
     return (
         <>
         <Card></Card>
@@ -8,4 +8,4 @@ const Tarifs = () => {
     );
 };
 
-export default Tarifs
+export default Prices
